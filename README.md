@@ -7,6 +7,8 @@ You can follow the team's news in the general blog.
 
 ##### Support only ru-language
 
+[[ONETAP && VMProtect x64](https://yougame.biz/threads/247961/)] Analysis of tricks that are under virtualization, system calls, mmaped ntdll, decryption of imports to LazyImport
+
 [[AIMWARE.NET](https://yougame.biz/threads/238361/)] Launcher reverse engineering, system call traversal and analysis, x64 code analysis in x32 environment.
 
 [[INTERIUM](https://yougame.biz/threads/237575/)] Patch anti-debugging tricks and finding a fatal vulnerability that skips without a license.
