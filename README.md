@@ -7,6 +7,8 @@ You can follow the team's news in the general blog.
 
 ##### Support only ru-language
 
+[[SCP: Secret Laboratory anti-cheat](https://yougame.biz/threads/263492/)] Inject blocking bypass, server part analysis, heaven's gate technique analysis, etc.
+
 [[ONETAP && VMProtect x64](https://yougame.biz/threads/247961/)] Analysis of tricks that are under virtualization, system calls, mmaped ntdll, decryption of imports to LazyImport
 
 [[AIMWARE.NET](https://yougame.biz/threads/238361/)] Launcher reverse engineering, system call traversal and analysis, x64 code analysis in x32 environment.
