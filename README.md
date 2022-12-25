@@ -7,6 +7,8 @@ You can follow the team's news in the general blog.
 
 ##### Support only ru-language
 
+[[VMProtect 2.x & 3.x](https://yougame.biz/threads/277698/)] Comparison of two different versions, superficial analysis of virtual machine architecture, handlers, MBA, CRC and mutation.
+
 [[SCP: Secret Laboratory anti-cheat](https://yougame.biz/threads/263492/)] Inject blocking bypass, server part analysis, heaven's gate technique analysis, etc.
 
 [[ONETAP && VMProtect x64](https://yougame.biz/threads/247961/)] Analysis of tricks that are under virtualization, system calls, mmaped ntdll, decryption of imports to LazyImport
