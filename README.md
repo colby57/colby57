@@ -23,8 +23,3 @@ You can follow the team's news in the general blog.
 
 [[Very hard CrackMe](https://yougame.biz/threads/231663/)] Analysis of obfuscation, x32 system calls and shellcode via the new Wow64Transition address
 
-### My Contacts
-- [Telegram](http://t.me/netherrealmdev)
-- [VK](https://vk.com/colby57)
-- [Yougame](https://yougame.biz/colby/)
-
