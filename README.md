@@ -1,7 +1,6 @@
 ### colby57 👻
 
-I am a reverse engineer and am the founder of [Team Enterial](https://t.me/team_enterial_blog).  
-You can follow the team's news in the general blog.
+![Koibito](https://koibito.qweme.dev/@colby57?scale=2&theme=chainsaw-man&length=6)
 
 ### My Favorite Articles on reverse engineering 💥
 
