@@ -6,6 +6,8 @@
 
 ##### Support only ru-language
 
+[[Denuvo v5.3](https://yougame.biz/threads/309741/)] A small analysis of the virtual machine, the analysis of mechanics such as polymorph code and the generation of HWID
+
 [[Overwatch 2 Import Deobfuscator](https://yougame.biz/threads/300963/)] Analyzing and writing an import deobfuscator using Zydis and Unicorn.
 
 [[VMProtect 2.x & 3.x](https://yougame.biz/threads/277698/)] Comparison of two different versions, superficial analysis of virtual machine architecture, handlers, MBA, CRC and mutation.
