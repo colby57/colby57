@@ -1,7 +1,5 @@
 ### colby57 👻
 
-![Koibito](https://koibito.qweme.dev/@colby57?scale=2&theme=chainsaw-man&length=6)
-
 ### My Favorite Articles on reverse engineering 💥
 
 ##### Support only ru-language
